@@ -1,3 +1,4 @@
+--отредактированно Алексом.
 local comp = require('component')
 local modem = comp.modem
 local term = require("term")
